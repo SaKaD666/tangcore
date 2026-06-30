@@ -16,9 +16,6 @@
 [submodule "monitor"]
 	path = monitor
 	url = ../monitorcore.git
-[submodule "smstang"]
-	path = smstang
-	url = ../smstang.git
 [submodule "pctang"]
 	path = pctang
 	url = ../pctang.git
