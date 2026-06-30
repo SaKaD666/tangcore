@@ -22,3 +22,6 @@
 [submodule "pctang"]
 	path = pctang
 	url = ../pctang.git
+[submodule "bouffalo_sdk"]
+	path = bouffalo_sdk
+	url = https://github.com/SaKaD666/bouffalo_sdk.git
